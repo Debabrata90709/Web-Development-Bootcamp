@@ -112,6 +112,8 @@ a:hover{
 
 .chilli-img{
     width: 25%;
+    float: right;
+    margin-right: 30px;
 }
 
 .btn {
